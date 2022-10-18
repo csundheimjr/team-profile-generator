@@ -14,6 +14,7 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 const render = require("./lib/renderHTML");
 const { resolve } = require("path");
 const { report } = require("process");
+
 //write functions
 // promts
 function managerPrompts() {
