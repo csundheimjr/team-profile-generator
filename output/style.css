@@ -1,0 +1,28 @@
+body {
+  font-family: "Bebas Neue", cursive;
+}
+
+.jumbotron {
+  background-image: url("../assets/circuits.jpg");
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  font-style: italic;
+}
+
+a:link {
+  color: rgba(255, 0, 0, 0.791);
+}
+
+a:hover {
+  color: rgb(107, 102, 102);
+}
+
+.card {
+  padding: 5px;
+  margin: 5px;
+}
